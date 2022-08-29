@@ -2,6 +2,7 @@
 - 👀 I’m interested in theoretical physics, specifically all kinds of physics near black holes
 - 🌱 I’m currently working on various aspects of gravitational-wave theory, specifically extreme mass ratio inspirals.
 - 📫 How to reach me: via email on vojtech dot witzany at ucd dot ie (work), or on jovter at gmail (personal)
+- :hatched_chick: I tweet about science at https://twitter.com/w_vojtech
 
 <!---
 VojtechW/VojtechW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
